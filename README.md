@@ -1,5 +1,5 @@
 # About
-duISAD is a global, homogenized weather station-based dust-climate dataset (duISD) in support of wind erosion monitoring, dust source mapping, and dust-climate analysis at local to global scales. The main data source is the NOAA Integrated Surface Database (ISD), merged with climate information from external sources.
+duISAD is a global, homogenized weather station-based dust-climate dataset (duISD) in support of wind erosion monitoring, dust source mapping, and dust-climate analysis at local to global scales. The main data source is the NOAA Integrated Surface Database (ISD) merged with climate variables from external sources.
 
 # Version
 October 2020: \
